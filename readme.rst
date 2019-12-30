@@ -1,5 +1,5 @@
 ###################
-Aplikasi Chatting Simple by Bayu Hidayah
+Aplikasi Chatting Sederhana by Bayu Hidayah
 ###################
 
 1. Using Framework CodeIgniter & PHP 5.6
