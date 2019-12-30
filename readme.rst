@@ -2,7 +2,7 @@
 Aplikasi Chatting Simple by Bayu Hidayah
 ###################
 
-1. Used Framework CodeIgniter & PHP 5.6
+1. Using Framework CodeIgniter & PHP 5.6
 2. AJAX & JSON
 3. MySQL Database
 
